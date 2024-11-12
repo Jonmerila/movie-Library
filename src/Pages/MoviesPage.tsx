@@ -1,6 +1,6 @@
 
 function MoviesPage() {
-    return <div>Populära Filmer</div>;
+    return <h1>Populära Filmer</h1>;
 }
 
 export default MoviesPage;

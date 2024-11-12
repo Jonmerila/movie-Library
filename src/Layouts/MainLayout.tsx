@@ -1,6 +1,9 @@
+import HomePage from "../Pages/HomePage";
+import MoviesPage from "../Pages/MoviesPage";
+
 function MainLayout() {
     return ( 
-        <main>MainLayout</main>
+        <main><HomePage/></main>
      );
 }
 
