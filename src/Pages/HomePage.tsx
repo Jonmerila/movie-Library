@@ -1,7 +1,7 @@
-
+import Header from "../UI/Header";
 
 function HomePage() {
-    return <h1>MovieFlix</h1>;
+    return <Header title="MovieFlix"/>;
 }
 
 export default HomePage;
