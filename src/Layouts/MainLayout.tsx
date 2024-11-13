@@ -1,9 +1,9 @@
-import HomePage from "../Pages/HomePage";
-// import MoviesPage from "../Pages/MoviesPage";
+import MoviesPage from "../Pages/MoviesPage";
+
 
 function MainLayout() {
     return ( 
-        <main><HomePage/></main>
+        <main><MoviesPage/></main>
      );
 }
 
